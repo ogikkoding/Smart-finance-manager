@@ -1,0 +1,236 @@
+/* ================================
+   CARD
+================================ */
+
+.card {
+  border: none;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.18);
+}
+
+/* ================================
+   HEADER
+================================ */
+
+.card-header {
+  background: linear-gradient(135deg, #198754, #20c997);
+
+  color: white;
+
+  border: none;
+}
+
+.card-header h5 {
+  margin: 0;
+
+  font-weight: bold;
+}
+
+/* ================================
+   SALDO
+================================ */
+
+.saldo {
+  font-size: 2.5rem;
+
+  font-weight: bold;
+
+  color: #198754;
+
+  margin-bottom: 5px;
+
+  transition: 0.3s;
+}
+
+.card:hover .saldo {
+  transform: scale(1.04);
+}
+
+/* ================================
+   BUTTON
+================================ */
+
+.btn {
+  border-radius: 10px;
+
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+/* ================================
+   INPUT
+================================ */
+
+.form-control {
+  border-radius: 10px;
+}
+
+.form-control:focus {
+  border-color: #198754;
+
+  box-shadow: 0 0 10px rgba(25, 135, 84, 0.25);
+}
+
+/* ================================
+   ALERT
+================================ */
+
+.alert {
+  border: none;
+
+  border-radius: 12px;
+}
+
+/* ================================
+   COLLAPSE
+================================ */
+
+#formTambahDana {
+  border-top: 1px solid #eee;
+
+  margin-top: 20px;
+
+  padding-top: 20px;
+}
+/* ===================================
+   TABLE MODERN
+=================================== */
+
+.table {
+  margin-bottom: 0;
+}
+
+.table thead th {
+  background: linear-gradient(135deg, #4e73df, #224abe);
+
+  color: #fff;
+
+  border: none;
+
+  text-align: center;
+
+  vertical-align: middle;
+
+  font-weight: 600;
+}
+
+.table tbody td {
+  vertical-align: middle;
+}
+
+.table tbody tr {
+  transition: 0.25s;
+}
+
+.table tbody tr:hover {
+  background: #eef4ff;
+
+  transform: scale(1.002);
+}
+
+/* ===================================
+   BUTTON AKSI
+=================================== */
+
+.btn-sm {
+  width: 38px;
+
+  height: 38px;
+
+  border-radius: 10px;
+
+  display: inline-flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  transition: 0.25s;
+}
+
+.btn-warning:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 6px 15px rgba(255, 193, 7, 0.35);
+}
+
+.btn-danger:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 6px 15px rgba(220, 53, 69, 0.35);
+}
+
+/* ===================================
+   CARD TABLE
+=================================== */
+
+.table-card {
+  border: none;
+
+  border-radius: 18px;
+
+  overflow: hidden;
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+.table-card .card-header {
+  background: linear-gradient(135deg, #4e73df, #224abe);
+
+  color: white;
+
+  border: none;
+}
+
+.table-card .card-header h4 {
+  margin: 0;
+
+  font-weight: bold;
+}
+
+/* ===================================
+   FOOTER
+=================================== */
+
+.card-footer {
+  background: #fff;
+
+  border-top: 1px solid #eee;
+}
+
+/* ===================================
+   BADGE HARGA
+=================================== */
+
+.badge-harga {
+  background: #198754;
+
+  color: white;
+
+  padding: 8px 12px;
+
+  border-radius: 8px;
+
+  font-size: 14px;
+
+  font-weight: 600;
+}
+
+/* ===================================
+   RESPONSIVE
+=================================== */
+
+.table-responsive {
+  padding: 10px;
+}
