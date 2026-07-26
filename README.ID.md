@@ -31,8 +31,7 @@ Selain pencatatan pengeluaran, aplikasi ini juga menyediakan grafik pengeluaran 
 - 📋 Histori Pemasukan
 - 📝 Notes
 - 🧮 Kalkulator
-- 💾 Backup Database
-- 📄 Export Histori ke Microsoft Excel
+- 💾 Backup Database dan Export Histori ke Microsoft Excel
 
 ---
 
@@ -79,66 +78,72 @@ Selain pencatatan pengeluaran, aplikasi ini juga menyediakan grafik pengeluaran 
 
 ---
 
-## 📂 Struktur Folder
+# 📂 Project Structure
 
-```
+```text
 OGIKFINANC/
 │
-├── assets/
+├── 📁 css/
+├── 📁 database/
+├── 📁 fitur_lainnya/
+├── 📁 images/
+├── 📁 js/
+├── 📁 proses/
+├── 📁 scss/
+├── 📁 vendor/
 │
-├── css/
-├── img/
-├── js/
+├── 📄 dashboard.php
+├── 📄 fitur_lainnya.php
+├── 📄 lihat-catatan.php
+├── 📄 login.php
+├── 📄 logout.php
+├── 📄 notes.php
+├── 📄 register.php
+├── 📄 tulis_catatan_pengeluaran.php
+├── 📄 user.php
 │
-├── proses/
-├── vendor/
-├── database/
-│
-├── login.php
-├── register.php
-├── logout.php
-├── user.php
-├── README.md
-└── LICENSE
+├── 📄 README.md
+├── 📄 README.ID.md
+└── 📄 LICENSE
 ```
 
 ---
 
-## 📸 Tampilan Aplikasi
+## 📸 Tampilan Website
 
 ### 🔐 Login
 
-> `screenshots/login.png`
+> `images/login.png`
 
 ---
 
 ### 📊 Dashboard
 
-> `screenshots/dashboard.png`
+> `images/dashboard.png`
 
 ---
 
 ### 💰 Catat Pengeluaran
 
-> `screenshots/catat-pengeluaran.png`
+> `images/tulis_pengeluaran.png`
 
 ---
 
-### 📋 Histori Pengeluaran
+### 💰 Catat Pengeluaran
 
-> `screenshots/lihat-catatan.png`
+> `images/lihat_catatan_pengeluaran.png`
 
 ---
 
 ### 📝 Notes
 
-> `screenshots/notes.png`
+> `images/notes.png`
 
 ---
 
 ### ⚙️ Fitur Lainnya
 
-> `screenshots/fitur-lainnya.png`
+> `images/fitur_lainnya.png`
 
 ---
 
@@ -200,16 +205,40 @@ Aplikasi menyediakan fitur:
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
-**Yogi Irawan**
+## Yogi Irawan
 
-Mahasiswa Informatika
+**Undergraduate Student in Informatics Engineering**
 
----
+### Areas of Interest
 
-## 📄 License
+- Web Development
+- Software Engineering
+- Database Systems
+- Artificial Intelligence
+- Machine Learning
 
-Project ini dibuat untuk keperluan pembelajaran, pengembangan kemampuan pemrograman web, dan portofolio pribadi.
+### Contact
 
-MIT License.
+📧 **Email**
+
+yogiirawan490@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/yogi-irawan-ab146a387
+
+🐙 **GitHub**
+
+https://github.com/ogikkoding
+
+# 📄 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+You are free to use, modify, and distribute this software under the terms of the GPL-3.0 License. Any derivative work must also be distributed under the same license.
+
+See the [LICENSE](LICENSE) file for more details.
+
+Copyright © 2026 **Yogi Irawan**
