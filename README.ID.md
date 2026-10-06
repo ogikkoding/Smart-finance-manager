@@ -109,43 +109,53 @@ OGIKFINANC/
 
 ---
 
-## 📸 Tampilan Website
+# 🖼️ Pratinjau Aplikasi
 
-### 🔐 Login
+## 🔐 Halaman Login
 
-> `images/login.png`
+> Halaman autentikasi pengguna.
 
----
-
-### 📊 Dashboard
-
-> `images/dashboard.png`
+![Halaman Login](images/login.png)
 
 ---
 
-### 💰 Catat Pengeluaran
+## 📊 Dashboard
 
-> `images/tulis_pengeluaran.png`
+> Menampilkan saldo saat ini, ringkasan keuangan, dan grafik pengeluaran bulanan.
 
----
-
-### 💰 Catat Pengeluaran
-
-> `images/lihat_catatan_pengeluaran.png`
+![Dashboard](images/dashboard.png)
 
 ---
 
-### 📝 Notes
+## 💰 Manajemen Pengeluaran
 
-> `images/notes.png`
+> Antarmuka untuk mencatat transaksi pengeluaran harian.
+
+![Manajemen Pengeluaran](images/tulis_pengeluaran.png)
+
+---
+
+## 📋 Riwayat Transaksi
+
+> Menampilkan seluruh catatan transaksi keuangan.
+
+![Riwayat Transaksi](images/lihat_catatan_pengeluaran.png)
 
 ---
 
-### ⚙️ Fitur Lainnya
+## 📝 Catatan
 
-> `images/fitur_lainnya.png`
+> Fitur catatan pribadi untuk menyimpan informasi penting.
+
+![Catatan](images/note.png)
 
 ---
+
+## ⚙️ Fitur Tambahan
+
+> Kalkulator, cadangan basis data (database backup), dan ekspor Excel.
+
+![Fitur Tambahan](images/fitur_lainnya.png)
 
 ## ⚙️ Instalasi
 
