@@ -133,7 +133,7 @@ OGIKFINANC/
 
 > User authentication page.
 
-`images/login.png`
+![Login Page](images/login.png)
 
 ---
 
@@ -141,7 +141,7 @@ OGIKFINANC/
 
 > Displays the current balance, financial summary, and monthly expense chart.
 
-`images/dashboard.png`
+![Dashboard](images/dashboard.png)
 
 ---
 
@@ -149,7 +149,7 @@ OGIKFINANC/
 
 > Interface for recording daily expense transactions.
 
-`images/tulis_pengeluaran.png`
+![Expense Management](images/tulis_pengeluaran.png)
 
 ---
 
@@ -157,7 +157,7 @@ OGIKFINANC/
 
 > Displays all recorded financial transactions.
 
-`images/lihat_catatan_pengeluaran.png`
+![Transaction History](images/lihat_catatan_pengeluaran.png)
 
 ---
 
@@ -165,7 +165,7 @@ OGIKFINANC/
 
 > Personal notes feature for recording important information.
 
-`images/notes.png`
+![Notes](images/note.png)
 
 ---
 
@@ -173,9 +173,7 @@ OGIKFINANC/
 
 > Calculator, database backup, and Excel export.
 
-`images/fitur_lainnya.png`
-
----
+![Additional Features](images/fitur_lainnya.png)
 
 # 🚀 Getting Started
 
