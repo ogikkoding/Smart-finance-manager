@@ -1,3 +1,4 @@
+
 # 💰 OGIKFINANC
 
 > A web-based personal finance management system developed using **PHP Native**, **Bootstrap 5**, **MySQL**, and **Chart.js**. The application helps users manage their personal budget, record financial transactions, monitor expenses, and visualize financial activities through an intuitive dashboard.
@@ -9,6 +10,13 @@
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
 ---
+
+🚀 **Live Demo:** [Try OGIKFINANC](https://ogikkodingsmartfinanc.free.je/login.php)
+
+🌐 **Website:** [ogikkodingsmartfinanc.free.je](https://ogikkodingsmartfinanc.free.je)
+
+---
+
 
 # 📖 Overview
 
