@@ -8,6 +8,8 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?logo=chartdotjs&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+🚀 **Live Demo Website:** [Coba Aplikasi Web di Sini](https://ogikkodingsmartfinanc.free.je/login.php)
+
 ---
 
 ## 📖 Deskripsi
